@@ -11,12 +11,11 @@ Step7 : Now install apache beam using "python -m pip install apache-beam"
 Step8 : Now copy the python code and input file to the folder and run the following command "python -m apache_beam.examples.wordcount --input input.txt --output output.txt"
 Output will generate
 
+```
+
 ![image1](https://raw.githubusercontent.com/vallapurapuramu/python-word-count/main/Screenshot%20(108).png)
 
 
 ![image1](https://raw.githubusercontent.com/vallapurapuramu/python-word-count/main/Screenshot%20(109).png)
-
-
-```
 
 
